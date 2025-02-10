@@ -1,0 +1,14 @@
+C:\Projetos\Leetcode\Problema_10\bin\Debug\net9.0\Problema_10.exe
+C:\Projetos\Leetcode\Problema_10\bin\Debug\net9.0\Problema_10.deps.json
+C:\Projetos\Leetcode\Problema_10\bin\Debug\net9.0\Problema_10.runtimeconfig.json
+C:\Projetos\Leetcode\Problema_10\bin\Debug\net9.0\Problema_10.dll
+C:\Projetos\Leetcode\Problema_10\bin\Debug\net9.0\Problema_10.pdb
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\Problema_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\Problema_10.AssemblyInfoInputs.cache
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\Problema_10.AssemblyInfo.cs
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\Problema_10.csproj.CoreCompileInputs.cache
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\Problema_10.dll
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\refint\Problema_10.dll
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\Problema_10.pdb
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\Problema_10.genruntimeconfig.cache
+C:\Projetos\Leetcode\Problema_10\obj\Debug\net9.0\ref\Problema_10.dll

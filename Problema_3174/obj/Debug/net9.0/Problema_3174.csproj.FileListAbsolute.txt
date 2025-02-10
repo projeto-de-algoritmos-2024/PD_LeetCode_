@@ -1,0 +1,14 @@
+C:\Projetos\Leetcode\Problema_3174\bin\Debug\net9.0\Problema_3174.exe
+C:\Projetos\Leetcode\Problema_3174\bin\Debug\net9.0\Problema_3174.deps.json
+C:\Projetos\Leetcode\Problema_3174\bin\Debug\net9.0\Problema_3174.runtimeconfig.json
+C:\Projetos\Leetcode\Problema_3174\bin\Debug\net9.0\Problema_3174.dll
+C:\Projetos\Leetcode\Problema_3174\bin\Debug\net9.0\Problema_3174.pdb
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\Problema_3174.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\Problema_3174.AssemblyInfoInputs.cache
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\Problema_3174.AssemblyInfo.cs
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\Problema_3174.csproj.CoreCompileInputs.cache
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\Problema_3174.dll
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\refint\Problema_3174.dll
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\Problema_3174.pdb
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\Problema_3174.genruntimeconfig.cache
+C:\Projetos\Leetcode\Problema_3174\obj\Debug\net9.0\ref\Problema_3174.dll
