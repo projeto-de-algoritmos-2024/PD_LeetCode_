@@ -27,10 +27,14 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 - [Problema 44 - Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - [Problema 3174 - Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10)
 
+- Video da resolução: https://www.youtube.com/watch?v=cSOAAzLuIbU
+
 ## Resultados
 
 - [P 5](Problema_5/Program.cs) - Medium
 - [P 10](Problema_10/Program.cs) - Hard
 - [P 44](Problema_44/Program.cs) - Hard
 - [P 3174](Problema_3174/Program.cs) - Easy
+
+
 
