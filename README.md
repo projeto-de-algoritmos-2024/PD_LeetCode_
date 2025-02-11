@@ -13,7 +13,12 @@ O objetivo desse repositório e acompanhar os conteúdos discutidos na disciplin
 do juiz online Leetcode
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Imagem 1](Assets/1.png)
+![Imagem 2](Assets/2.png)
+![Imagem 3](Assets/3.png)
+![Imagem 4](Assets/4.png)
+![Imagem 5](Assets/5.png)
+
 
 ## Instalação 
 **Linguagem**: Python<br> C#<br>
