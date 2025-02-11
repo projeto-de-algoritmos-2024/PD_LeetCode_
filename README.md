@@ -31,7 +31,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 - Video da resolução: https://www.youtube.com/watch?v=cSOAAzLuIbU
 
 ## Resultados
-- [P 140](Problema_140/WordBreak2) - Hard
+- [P 140](Problema_140/WordBreak2.py) - Hard
 - [P 5](Problema_5/Program.cs) - Medium
 - [P 10](Problema_10/Program.cs) - Hard
 - [P 44](Problema_44/Program.cs) - Hard
