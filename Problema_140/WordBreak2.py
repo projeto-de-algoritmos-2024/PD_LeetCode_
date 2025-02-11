@@ -1,31 +1,17 @@
 def wordBreak(s, wordDict):
     wordSet = set(wordDict)
-    memo = {}
+    n = len(s)
+    dp = [[] for _ in range(n + 1)]  
+    dp[0] = ['']  
     
-    def backtrack(start):
-        
-        if start in memo:
-            return memo[start]
-        
+   
+    for i in range(1, n + 1):
+        for j in range(i):
+            if s[j:i] in wordSet:
+                for sentence in dp[j]:
+                    dp[i].append(sentence + ('' if sentence == '' else ' ') + s[j:i])
     
-        if start == len(s):
-            return ['']
-        
-        result = []
-        
-        
-        for end in range(start + 1, len(s) + 1):
-            if s[start:end] in wordSet:
-                rest_of_sentences = backtrack(end)
-                for sentence in rest_of_sentences:
-                    result.append(s[start:end] + ('' if sentence == '' else ' ' + sentence))
-        
-    
-        memo[start] = result
-        return result
-    
-
-    return backtrack(0)
+    return dp[n]
 
 
 s = "catsanddog"
