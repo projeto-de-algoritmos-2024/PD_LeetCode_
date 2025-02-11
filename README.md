@@ -21,7 +21,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Requisito**: Ter as linguagens instaladas no local de teste.
 
 ## Questões resolvidas
-- [Problema 140 - Clear Digits](https://leetcode.com/problems/word-break-ii/)
+- [Problema 140 - Word Break 2](https://leetcode.com/problems/word-break-ii/)
 - [Problema 5 - Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [Problema 10 - Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 - [Problema 44 - Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
